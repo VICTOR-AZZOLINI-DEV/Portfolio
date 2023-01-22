@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px;
+}
+
+
+.image_victor{
+    max-width: 300px;
+    border-radius: 2px;
+
+}
+
+.container_info{
+    display: flex;
+}
+
+
+.container_info a {
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-size: 1rem;
+    color: aliceblue;
+    background-color: #3A1B1B;
+    text-decoration: none;
+
+}
